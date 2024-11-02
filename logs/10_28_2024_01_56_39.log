@@ -1,4 +1,0 @@
-[2024-10-28 01:56:39,481] 47 __main__ - INFO - This is an INFO level message (both console and file).
-[2024-10-28 01:56:39,482] 48 __main__ - WARNING - This is a WARNING level message (both console and file).
-[2024-10-28 01:56:39,482] 49 __main__ - ERROR - This is an ERROR level message (both console and file).
-[2024-10-28 01:56:39,482] 50 __main__ - CRITICAL - This is a CRITICAL level message (both console and file).
